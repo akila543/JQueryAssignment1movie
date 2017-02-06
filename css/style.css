@@ -1,0 +1,47 @@
+#header{
+	background-color: grey;
+	color:#ffffff;
+	text-align: center;
+	margin-bottom: 10px;
+	font-family: 'Abril Fatface', cursive;
+
+}
+#form{
+	background-color:grey;
+	text-align: center;
+
+}
+#movie_name{
+   padding-top: 10px;
+   padding-left: 50px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+#button{
+  padding-top: 5px;
+}
+div{
+	display: block;
+}
+#displayDetails
+{
+	font-family: 'Itim', cursive;
+	font-size: 20px;
+	color:#ff4000;
+  text-align: center;
+	
+
+
+
+background-color: #cbd0d8;
+
+}
+#content2{
+	margin-top: 50px;
+	margin-bottom: 500px;
+}
+body{
+  
+  text-align: center;
+}
+
